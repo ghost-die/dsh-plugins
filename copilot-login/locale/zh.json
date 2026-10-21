@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "GitHub Copilot 登录",
+    "description": "通过设备码流程使用 GitHub 账号授权登录，启用 Copilot 提供方，并在模型列表中使用 Copilot 模型。"
+  },
+  "card": {
+    "title": "GitHub Copilot",
+    "subtitle": "使用 GitHub 账号授权登录，之后即可在模型列表中选择 Copilot 模型，无需 API Key。"
+  }
+}

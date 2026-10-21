@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "GitHub Copilot Sign-in",
+    "description": "Signs in with a GitHub account through the device-code flow, enables the Copilot provider, and uses Copilot models from the model list."
+  },
+  "card": {
+    "title": "GitHub Copilot",
+    "subtitle": "Sign in with a GitHub account, then pick Copilot models from the model list. No API key is needed."
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Copilot sign-in">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#1f2a44"/>
+  <path d="M16 41c9-2 15-6 18-13 1-2.4 3.3-3.9 5.9-3.9C44.6 24.1 48 27.5 48 32.2V42c0 1.7-1.4 3-3 3H18.6c-2 0-3.4-2.2-2.6-4Z" fill="#4c8dff"/>
+  <path d="M21 34.5c5.2-1 9.3-3.9 11.7-8.2" stroke="#cfe0ff" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+  <circle cx="38.6" cy="31.2" r="2.7" fill="#ffffff"/>
+  <path d="M16 48h32" stroke="#8fb4ff" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

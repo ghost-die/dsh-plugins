@@ -1,0 +1,5 @@
+# Inserts the Host half; the package's `dsh.client` half supplies the card in
+# Settings → Models. Both halves are the same package row.
+- insert:
+    - id: copilot-login
+      name: '@local/dsh-copilot-login'
