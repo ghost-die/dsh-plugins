@@ -15,7 +15,7 @@ Harness 自带的 `@deepseek-ai/dsh-llm-pi-ai` 已经包含 `github-copilot` 提
 
 ## 使用
 
-1. 安装并启用本 bundle（`plugin_manager` 的 `install_bundle`，或在插件页安装）。
+1. 在 DSH 插件页输入 `https://github.com/ghost-die/dsh-plugins.git#path:/copilot-login` 安装并启用本 bundle（也可使用 `plugin_manager` 的 `install_bundle`）。注意仓库根地址不是安装地址。
 2. 打开 **设置 → 模型**，页面底部出现 “GitHub Copilot” 卡片。
 3. 点 **启用 Copilot 提供方**。这会写入一个空的 Copilot 档案，`github-copilot` 路由随即注册，卡片会显示可用模型数量。
 4. 点 **使用 GitHub 登录**：卡片会显示 `https://github.com/login/device` 和一次性验证码，在浏览器里输入即可。需要 GitHub Copilot 订阅（或可用的 Copilot 策略）。
